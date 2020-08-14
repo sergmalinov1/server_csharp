@@ -1,0 +1,52 @@
+C:\Project\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.exe
+C:\Project\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.deps.json
+C:\Project\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.runtimeconfig.json
+C:\Project\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.runtimeconfig.dev.json
+C:\Project\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.dll
+C:\Project\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.pdb
+C:\Project\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.csprojAssemblyReference.cache
+C:\Project\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.csproj.CoreCompileInputs.cache
+C:\Project\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.AssemblyInfoInputs.cache
+C:\Project\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.AssemblyInfo.cs
+C:\Project\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.dll
+C:\Project\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.pdb
+C:\Project\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.genruntimeconfig.cache
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.exe
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.deps.json
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.runtimeconfig.json
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.runtimeconfig.dev.json
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.dll
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.pdb
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.csprojAssemblyReference.cache
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.csproj.CoreCompileInputs.cache
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.AssemblyInfoInputs.cache
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.AssemblyInfo.cs
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.dll
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.pdb
+c:\Project\csharp\ServerUnity\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.genruntimeconfig.cache
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.exe
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.deps.json
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.runtimeconfig.json
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.runtimeconfig.dev.json
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.dll
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.pdb
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.csprojAssemblyReference.cache
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.csproj.CoreCompileInputs.cache
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.AssemblyInfoInputs.cache
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.AssemblyInfo.cs
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.dll
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.pdb
+c:\Project\csharp\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.genruntimeconfig.cache
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.exe
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.deps.json
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.runtimeconfig.json
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.runtimeconfig.dev.json
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.dll
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\bin\Debug\netcoreapp3.1\ClientTest.pdb
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.csprojAssemblyReference.cache
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.AssemblyInfoInputs.cache
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.AssemblyInfo.cs
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.dll
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.pdb
+C:\Projects\csharp\server\ServerUnity\part 3\ClientTest\ClientTest\obj\Debug\netcoreapp3.1\ClientTest.genruntimeconfig.cache

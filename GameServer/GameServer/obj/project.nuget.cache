@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYY05W7prKN86S4oSKKbpyW8bBE17GcQ0zUmMa2jzNmuq5FouFlXIc+3HS5gRRovVdijGo+n25NJ9RGSZrBgVg==",
+  "success": true,
+  "projectFilePath": "c:\\Project\\csharp\\ServerUnity\\part 3\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SergIT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\SergIT\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\SergIT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\SergIT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
